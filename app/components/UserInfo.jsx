@@ -7,6 +7,7 @@ import {signOut} from 'next-auth/react'
 export default function UserInfo() {
   const { data: session } = useSession();
   console.log('session data', session);
+  
   return (
     <div className='container mx-auto width-[600px]'>
         <ul className='py-12'>
