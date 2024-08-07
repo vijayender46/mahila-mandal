@@ -15,8 +15,8 @@ steps:
 - name: Get latest code
 
 uses: actions/checkout@v2
+name: Sync files
 
-- name: Sync files
 uses: SamKirkland/FTP-Deploy-Action@4.1.0
 with:
 server: ftp.vijayenderthakur.com
