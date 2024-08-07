@@ -3,7 +3,7 @@ name: Deploy Website Mahila Mandal
 on:
 push:
 branches:
-- main # Specify branch name
+- main # Specify branch name like main
 
 jobs:
 web-deploy:
