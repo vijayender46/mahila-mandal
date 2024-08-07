@@ -5,7 +5,7 @@ export default{
         'id': 'event1',
         "date": "15",
         "month": "August",
-        "place": "Rural Village, Maharashtra",
+        "place": "Rural Village, Himachal Pradesh",
         "eventTitle": "Empowering Entrepreneurs: Women's Handicraft Workshop",
         "image": "https://unsplash.com/photos/p0ZvBVpW3KY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
         "description": "Local women engage in a skill-building workshop, learning intricate handicraft techniques to boost their income and build self-confidence."
